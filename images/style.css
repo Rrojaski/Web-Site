@@ -1,0 +1,31 @@
+﻿header {
+}
+
+.logo {
+    
+    font-family: Helvetica;
+    font-size: 24px;
+}
+
+body {
+    background-color: #1b1d1f;
+    font-family: verdana;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.welcome {
+    text-align: center;
+    border: 5px solid black;
+    margin-top: 10px;
+}
+
+.skill {
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+}
